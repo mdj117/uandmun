@@ -217,7 +217,7 @@
 /*BG STATIC IMAGE*/
 
 .parallax {
-  background-image: url("../images/TEDx1.png");
+  background-image: url("cover.png");
   background-size: auto;
   height: 600px;
   max-width: 100%;
