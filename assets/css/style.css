@@ -5,7 +5,7 @@
 /*NAVBAR OVERRIDING*/
 
 #override .navbar {
-  background-color: rgba(50,50,50, 1);
+  background-color: rgba(50,50,50,1);
   border: none;
 }
 
@@ -64,7 +64,7 @@
 }
 
 #override .dropdown-menu {
-  background-color: rgba(50,50,50, 1);
+  background-color: rgba(242, 242, 242);
   border: none;
 }
 
